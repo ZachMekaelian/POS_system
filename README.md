@@ -1,12 +1,12 @@
-## **POS System Project**
+# **POS System Project**
 
-# **Overview**
+## **Overview**
 
 This repository contains the combined work of our CS 441 Group-8 project, where we developed a fully functional Point of Sale (POS) system. The project was a collaborative effort among 11 engineers, with contributions across multiple subsystems, including frontend, backend, and database management.
 
 The POS system is designed to handle various functionalities such as sales, inventory management, and customer data. This project demonstrates the use of various modern technologies and follows Agile development methodologies.
 
-# **Features**
+## **Features**
 
 Sales Management: 
 
@@ -16,7 +16,7 @@ User Authentication: Secure login system for employees and administrators.
 Receipt Generation: Automatically generates digital receipts after transactions.
 Reporting: Generates sales and performance reports.
 
-# **Tech Stack**
+## **Tech Stack**
 
 This project was built using the following technologies:
 
@@ -35,7 +35,7 @@ HTML5, CSS3
 React.js
 Electron for Desktop App Interface
 
-# **Installation**
+## **Installation**
 
 To set up the project locally, follow these steps:
 
