@@ -1,4 +1,4 @@
-# **<u>POS System Project</u>**
+# <u>**POS System Project**</u>
 
 # **Overview**
 
