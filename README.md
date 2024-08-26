@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-This repository contains the combined work of our CS 441 Group-8 project, where we developed a fully functional Point of Sale (POS) system. The project was a collaborative effort among 11 engineers, with contributions across multiple subsystems, including frontend, backend, and database management.
+This repository contains the combined work of an open source project where we developed a fully functional Point of Sale (POS) system. The project was a collaborative effort among 12 engineers, with contributions across multiple subsystems, including frontend, backend, and database management.
 
 The POS system is designed to handle various functionalities such as sales, inventory management, and customer data. This project demonstrates the use of various modern technologies and follows Agile development methodologies.
 
